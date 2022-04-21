@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Live App</string>
+    <string name="label_main">Lives Android</string>
+    <string name="label_main_author">Kaique Ocanha</string>
+    <string name="main_error_network">Algo deu errado, verifique sua conexão com a internet</string>
+    <string name="main_error_generic">Algo deu errado…</string>
+</resources>
